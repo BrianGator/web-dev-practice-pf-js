@@ -1,6 +1,6 @@
 # Brian McCarthy Developer Portfolio
-
-**Website Name:** Brian McCarthy Developer Portfolio  
+**Website Name:** Microsoft Copilot Front-End Portfolio Website  
+**Deployed Website**: https://briangator.github.io/web-dev-practice-pf-js/ 
 **Project Name:** Microsoft Copilot Front-End Portfolio Website  
 **Project Title:** Brian McCarthy Developer Portfolio  
 **Written by Brian McCarthy**
